@@ -65,14 +65,14 @@ Multi-agent corporate intelligence system for research and financial analysis.
 <tr>
 <td width="50%" valign="top">
 
-### 🌱 [Plant Image Classification](https://github.com/Satvik26/ANNDL-Challenge1)
+### 🔎 [ragkit](https://github.com/Satvik26/ragkit)
 
-Deep-learning image classification project.
+Document question answering that cites its source or abstains.
 
-- LeNet and VGG9 from scratch
-- ConvNeXtLarge transfer learning
-- Data augmentation
-- Layer freezing and early stopping
+- Ports and adapters, one composition root
+- Qdrant, Postgres BM25, and cross-encoder rerank
+- LangGraph corrective RAG with a claim verifier
+- Ollama or OpenAI behind one LLM port
 
 </td>
 <td width="50%" valign="top">
